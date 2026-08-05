@@ -1,91 +1,75 @@
-<h1 align="center">Hi 👋, I'm Shiva Prakash R S</h1>
-
-<h3 align="center">
-Full Stack Web Developer | Java Programmer | Python Developer
-</h3>
+<h1 align="center">Hi there, I'm Shiva Prakash R S 👋</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Java+Programmer;Python+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;Java+Programmer;Python+Developer;Always+Learning+New+Technologies"/>
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 🚀 About Me
 
-- 🎓 Computer Science Engineering student at **ATME College of Engineering, Mysuru**
-- 💼 Passionate about **Full Stack Web Development**
-- 💻 Skilled in **HTML, CSS, Flask, Python, and Java**
-- 🚀 Enjoy building practical web applications and continuously learning new technologies
-- 🌍 Based in **Mysuru, Karnataka, India**
-- 🌐 Portfolio: **https://shiva-prakash-portfolio.vercel.app/**
+- 🎓 Computer Science Engineering Student at **ATME College of Engineering, Mysuru**
+- 💼 Full Stack Web Developer
+- 💻 Skilled in **HTML, CSS, Flask, Java and Python**
+- 🚀 Passionate about building practical web applications
+- 🤝 Open to Internship Opportunities
+
+---
+
+# 🌍 Connect
+
+- 🌐 Portfolio: https://shiva-prakash-portfolio.vercel.app/
 - 📧 Email: **workshivars@gmail.com**
 - 📱 Phone: **+91 72040 02829**
-- 🤝 Open to **Internship Opportunities**
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### Programming Languages
+### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python" />
+<img src="https://skillicons.dev/icons?i=java,python"/>
 </p>
 
 ### Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,flask" />
+<img src="https://skillicons.dev/icons?i=html,css,flask"/>
 </p>
 
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 </p>
 
 ---
 
-## 🚀 Projects
+# 🚀 Projects
 
-- 🍅 **Tomato Disease Detector ML Model**
-- 🏢 **Agency Operating System** *(Private Workspace Project)*
+- 🍅 Tomato Disease Detector ML Model
+- 🏢 Agency Operating System *(Private Workspace Project)*
 
 ---
 
-## 📊 GitHub Statistics
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=15"/>
-
-</p>
-
----
-
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -102,7 +86,7 @@ Full Stack Web Developer | Java Programmer | Python Developer
 </a>
 
 <a href="mailto:workshivars@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://shiva-prakash-portfolio.vercel.app/">
@@ -113,10 +97,6 @@ Full Stack Web Developer | Java Programmer | Python Developer
 
 ---
 
-<div align="center">
-
-### 💬 Quote
-
-*"Keep learning. Keep building. Keep improving."*
-
-</div>
+<p align="center">
+⭐ Thanks for visiting my profile!
+</p>
