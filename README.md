@@ -1,11 +1,7 @@
 <h1 align="center">Hi there, I'm Shiva Prakash R S 👋</h1>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=shiva-prakash-r-s&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;Java+Programmer;Python+Developer;Always+Learning+New+Technologies" />
 </p>
 
 ---
@@ -13,18 +9,14 @@
 # 🚀 About Me
 
 - 🎓 Computer Science Engineering Student at **ATME College of Engineering, Mysuru**
-- 💼 Full Stack Web Developer
-- 💻 Skilled in **HTML, CSS, Flask, Java and Python**
+- 💻 Full Stack Web Developer
+- 🌱 Skilled in **HTML, CSS, Flask, Java and Python**
 - 🚀 Passionate about building practical web applications
+- 📍 Mysuru, Karnataka, India
+- 🌐 Portfolio: **https://shiva-prakash-portfolio.vercel.app/**
+- 📧 **workshivars@gmail.com**
+- 📱 **+91 72040 02829**
 - 🤝 Open to Internship Opportunities
-
----
-
-# 🌍 Connect
-
-- 🌐 Portfolio: https://shiva-prakash-portfolio.vercel.app/
-- 📧 Email: **workshivars@gmail.com**
-- 📱 Phone: **+91 72040 02829**
 
 ---
 
@@ -50,20 +42,13 @@
 
 ---
 
-# 🚀 Projects
-
-- 🍅 Tomato Disease Detector ML Model
-- 🏢 Agency Operating System *(Private Workspace Project)*
-
----
-
 # 📊 GitHub Statistics
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Shiva-Prakash-R-S&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiva-Prakash-R-S&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -97,6 +82,18 @@
 
 ---
 
+# 💭 Quote of the Day
+
+> **"Keep learning. Keep building. Keep improving."**
+
+---
+
 <p align="center">
-⭐ Thanks for visiting my profile!
+
+<img src="https://raw.githubusercontent.com/Shiva-Prakash-R-S/Shiva-Prakash-R-S/output/snake.svg" alt="Snake animation"/>
+
 </p>
+
+---
+
+<h3 align="center">Made with ❤️ by Shiva Prakash R S</h3>
